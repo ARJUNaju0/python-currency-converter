@@ -22,3 +22,11 @@ def liveExchangeRate():
     print("currency exchange rate 1",from_currency ,"to",to_currency,rate)
 
 liveExchangeRate()
+
+
+#print("historical data")
+
+#t = datetime.date(2020,10,10)
+
+#previous = c.get_rate(from_currency, to_currency,t)
+#print(previous)
